@@ -1,0 +1,42 @@
+.clear-floats {
+  clear: both;
+}
+#block-views-social_media_links-block_1 .view-social-media-links {
+  border: none;
+}
+
+#block-views-social_media_links-block_1 .views-field-nothing a div {
+  display: block;
+  float: left;
+  width: 25px;
+  height: 26px;
+  margin-bottom: 5px;
+}
+
+#block-views-social_media_links-block_1 .views-field-title {
+  margin-left: 30px;
+}
+
+#block-views-social_media_links-block_1 .views-field-nothing .Facebook {
+  background-image: url('facebook.png');
+}
+
+#block-views-social_media_links-block_1 .views-field-nothing .Flickr {
+  background-image: url('flickr.png');
+}
+
+#block-views-social_media_links-block_1 .views-field-nothing .Twitter {
+  background-image: url('twitter.png');
+}
+
+#block-views-social_media_links-block_1 .views-field-nothing .WordPress {
+  background-image: url('wordpress.png');
+}
+
+#block-views-social_media_links-block_1 .views-field-nothing .YouTube {
+  background-image: url('youtube.png');
+}
+
+#block-views-social_media_links-block_1 .views-field-nothing .Vimeo {
+  background-image: url('vimeo.png');
+}
