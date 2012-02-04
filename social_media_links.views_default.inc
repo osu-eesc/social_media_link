@@ -11,10 +11,9 @@ function social_media_links_views_default_views() {
   $view->name = 'social_media_links';
   $view->description = 'Creates block for displaying social media links';
   $view->tag = '';
-  $view->view_php = '';
   $view->base_table = 'node';
-  $view->is_cacheable = FALSE;
-  $view->api_version = 2;
+  $view->core = 0;
+  $view->api_version = '2';
   $view->disabled = FALSE; /* Edit this to true to make a default view disabled initially */
   $handler = $view->new_display('default', 'Defaults', 'default');
   $handler->override_option('fields', array(
@@ -279,6 +278,7 @@ function social_media_links_views_default_views() {
     'grouping' => '',
   ));
   $handler = $view->new_display('block', 'Block', 'block_1');
+  $handler->override_option('title', 'Social Media');
   $handler->override_option('block_description', '');
   $handler->override_option('block_caching', -1);
 
