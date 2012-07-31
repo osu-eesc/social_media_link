@@ -40,3 +40,23 @@
 #block-views-social_media_links-block_1 .views-field-nothing .Vimeo {
   background-image: url('vimeo.png');
 }
+
+#block-views-social_media_links-block_1 .views-field-nothing .Pinterest {
+  background-image: url('pinterest.png');
+}
+
+#block-views-social_media_links-block_1 .views-field-nothing .Blogger {
+  background-image: url('blogger.png');
+}
+
+#block-views-social_media_links-block_1 .views-field-nothing .GooglePlus {
+  background-image: url('googleplus.png');
+}
+
+#block-views-social_media_links-block_1 .views-field-nothing .LinkedIn {
+  background-image: url('linkedin.png');
+}
+
+#block-views-social_media_links-block_1 .views-field-nothing .Pachyderm {
+  background-image: url('pachyderm.png');
+}
