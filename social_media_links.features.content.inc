@@ -58,7 +58,12 @@ function social_media_links_content_default_fields() {
 3|YouTube
 4|Flickr
 5|WordPress
-6|Vimeo',
+6|Vimeo
+7|Pinterest
+9|Blogger
+10|GooglePlus
+11|LinkedIn
+12|Pachyderm',
     'allowed_values_php' => '',
     'widget' => array(
       'default_value' => array(
