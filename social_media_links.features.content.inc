@@ -121,7 +121,7 @@ function social_media_links_content_default_fields() {
     ),
     'widget_active' => '1',
     'type' => 'link',
-    'required' => '0',
+    'required' => '1',
     'multiple' => '0',
     'module' => 'link',
     'active' => '1',
@@ -132,7 +132,7 @@ function social_media_links_content_default_fields() {
       'title' => '',
     ),
     'display' => array(
-      'url_cutoff' => '80',
+      'url_cutoff' => '',
     ),
     'url' => 0,
     'title' => 'none',
