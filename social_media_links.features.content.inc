@@ -63,7 +63,8 @@ function social_media_links_content_default_fields() {
 9|Blogger
 10|GooglePlus
 11|LinkedIn
-12|Pachyderm',
+12|Pachyderm
+13|Instagram',
     'allowed_values_php' => '',
     'widget' => array(
       'default_value' => array(
